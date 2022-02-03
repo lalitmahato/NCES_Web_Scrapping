@@ -176,4 +176,4 @@ print(university_data)
 
 # To export data in json file
 with open("scrapped_university_details1.json", "w") as jsonwrite:
-    json.dump(university_data, jsonwrite)
+    json.dump(university_data, jsonwrite, indent = 4)
