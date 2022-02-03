@@ -1,0 +1,1085 @@
+[
+    {
+        "1": {
+            "Institution_Characteristics": {
+                "Institution_Characteristics": {
+                    "Unitid": "166027",
+                    "Name": "Harvard University",
+                    "City": "Cambridge",
+                    "State": "MA",
+                    "Web_Address": "www.harvard.edu/",
+                    "Opeid": "00215500",
+                    "Title_Iv_Institution": "Participates in Title IV federal financial aid programs",
+                    "Control": "Private not-for-profit",
+                    "Level": "Four or more years",
+                    "Institution_Category": "Degree-granting, primarily baccalaureate or above",
+                    "Carnegie_Classification": "Doctoral Universities: Very High Research Activity",
+                    "Award_Levels": "Associate's degree Bachelor's degree Postbaccalaureate certificate Master's degree Post-master's certificate Doctor's degree - research/scholarship Doctor's degree - professional practice",
+                    "Religious_Affiliation": "Not applicable",
+                    "Calendar_System": "Semester",
+                    "Reporting_Method": "Student charges for full academic year and fall GR/SFA/retention rate cohort",
+                    "Campus_Setting": "City: Midsize",
+                    "Distance_Learning": "Offers undergraduate courses and/or programs"
+                }
+            },
+            "Admissions_And_Test_Scores": {
+                "Applications": {
+                    "Total": {
+                        "Number_applied": "40,248",
+                        "Number_admitted": "2,015",
+                        "Number_enrolled": {
+                            "Full_Time": "1,407",
+                            "Part_Time": "0"
+                        }
+                    },
+                    "Men": {
+                        "Number_applied": "20,036",
+                        "Number_admitted": "974",
+                        "Number_enrolled": {
+                            "Full_Time": "674",
+                            "Part_Time": "0"
+                        }
+                    },
+                    "Women": {
+                        "Number_applied": "20,212",
+                        "Number_admitted": "1,041",
+                        "Number_enrolled": {
+                            "Full_Time": "733",
+                            "Part_Time": "0"
+                        }
+                    }
+                },
+                "SAT": {
+                    "Sat_Evidence-based_Reading_And_Writing": {
+                        "25th_percentile": "720",
+                        "75th_percentile": "780"
+                    },
+                    "Math": {
+                        "25th_percentile": "740",
+                        "75th_percentile": "800"
+                    }
+                },
+                "ACT": {
+                    "Composite": {
+                        "25th_percentile": "33",
+                        "75th_percentile": "35"
+                    },
+                    "English": {
+                        "25th_percentile": "35",
+                        "75th_percentile": "36"
+                    },
+                    "Math": {
+                        "25th_percentile": "31",
+                        "75th_percentile": "35"
+                    }
+                }
+            },
+            "Student_Charges": {
+                "Cost": {
+                    "Published_Tuition_And_Required_Fees": "$54,002",
+                    "Books_And_Supplies": "$900",
+                    "On-campus_Room_And_Board": "$18,389",
+                    "On-campus_Other_Expenses": "$2,600",
+                    "Total_Cost": "",
+                    "On-campus": "$75,891"
+                },
+                "Level_of_student": {
+                    "Undergraduate": {
+                        "Tuition_and_required_fees": "$53,968"
+                    },
+                    "Graduate": {
+                        "Tuition_and_required_fees": "$50,654"
+                    },
+                    "Doctor's_Professional_Practice": {
+                        "Tuition_and_required_fees": ""
+                    },
+                    "Dentistry": {
+                        "Tuition_and_required_fees": ""
+                    },
+                    "Medicine": {
+                        "Tuition_and_required_fees": "$66,787"
+                    },
+                    "Law": {
+                        "Tuition_and_required_fees": "$67,081"
+                    }
+                }
+            },
+            "Student_Financial_Aid": {
+                "Student_Financial_Aid": {
+                    "All_Undergraduate_Students": {
+                        "Percent_receiving_aid": "",
+                        "Average_amount_of_aid_received": ""
+                    },
+                    "Any_Grant_Or_Scholarship_Aid": {
+                        "Percent_receiving_aid": "42%",
+                        "Average_amount_of_aid_received": "$52,257"
+                    },
+                    "Pell_Grants": {
+                        "Percent_receiving_aid": "17%",
+                        "Average_amount_of_aid_received": "$5,048"
+                    },
+                    "Federal_Student_Loans": {
+                        "Percent_receiving_aid": "3%",
+                        "Average_amount_of_aid_received": "$5,071"
+                    },
+                    "Full-time,_First-time,_Degree/certificate-seeking_Undergraduate_Students": {
+                        "Percent_receiving_aid": "",
+                        "Average_amount_of_aid_received": ""
+                    },
+                    "Any_Student_Financial_Aid": {
+                        "Percent_receiving_aid": "72%",
+                        "Average_amount_of_aid_received": " "
+                    },
+                    "Grants_Or_Scholarship_Aid": {
+                        "Percent_receiving_aid": "57%",
+                        "Average_amount_of_aid_received": "$57,877"
+                    },
+                    "Federal_Grants": {
+                        "Percent_receiving_aid": "19%",
+                        "Average_amount_of_aid_received": "$7,514"
+                    },
+                    "Other_Federal_Grants": {
+                        "Percent_receiving_aid": "13%",
+                        "Average_amount_of_aid_received": "$4,016"
+                    },
+                    "State_Or_Local_Grants_And_Scholarships": {
+                        "Percent_receiving_aid": "4%",
+                        "Average_amount_of_aid_received": "$2,709"
+                    },
+                    "Institutional_Grants_And_Scholarships": {
+                        "Percent_receiving_aid": "57%",
+                        "Average_amount_of_aid_received": "$55,389"
+                    },
+                    "Student_Loan_Aid": {
+                        "Percent_receiving_aid": "7%",
+                        "Average_amount_of_aid_received": "$10,464"
+                    },
+                    "Other_Student_Loans": {
+                        "Percent_receiving_aid": "6%",
+                        "Average_amount_of_aid_received": "$10,151"
+                    }
+                }
+            },
+            "Net_Price": {
+                "Income": {
+                    "$0-$30,000": {
+                        "2017-18": "$2,382",
+                        "2018-19": "$2,973",
+                        "2019-20": "$2,564"
+                    },
+                    "$30,001-$48,000": {
+                        "2017-18": "$1,094",
+                        "2018-19": "$1,010",
+                        "2019-20": "$1,396"
+                    },
+                    "$48,001-$75,000": {
+                        "2017-18": "$3,149",
+                        "2018-19": "$3,411",
+                        "2019-20": "$2,669"
+                    },
+                    "$75,001-$110,000": {
+                        "2017-18": "$19,733",
+                        "2018-19": "$15,553",
+                        "2019-20": "$20,059"
+                    },
+                    "$110,001AndMore": {
+                        "2017-18": "$46,466",
+                        "2018-19": "$46,160",
+                        "2019-20": "$42,312"
+                    }
+                }
+            },
+            "Enrollment": {
+                "Enrollment": {
+                    "All_Students": {
+                        "Total": "30,391",
+                        "Men": "14,509",
+                        "Women": "15,882"
+                    },
+                    "Undergraduate": {
+                        "Total": "2,828",
+                        "Men": "1,356",
+                        "Women": "1,472"
+                    },
+                    "Degree/certificate_Seeking": {
+                        "Total": "596",
+                        "Men": "293",
+                        "Women": "303"
+                    },
+                    "First-time": {
+                        "Total": "1,404",
+                        "Men": "672",
+                        "Women": "732"
+                    },
+                    "Transfer-ins": {
+                        "Total": "13",
+                        "Men": "7",
+                        "Women": "6"
+                    },
+                    "Continuing": {
+                        "Total": "596",
+                        "Men": "293",
+                        "Women": "303"
+                    },
+                    "Nondegree/certificate_Seeking": {
+                        "Total": "2,232",
+                        "Men": "1,063",
+                        "Women": "1,169"
+                    },
+                    "Graduate": {
+                        "Total": "8,533",
+                        "Men": "3,953",
+                        "Women": "4,580"
+                    },
+                    "Full-time_Students": {
+                        "Total": "19,030",
+                        "Men": "9,200",
+                        "Women": "9,830"
+                    },
+                    "Part-time_Students": {
+                        "Total": "11,361",
+                        "Men": "5,309",
+                        "Women": "6,052"
+                    }
+                }
+            },
+            "Completions": {
+                "Total": {
+                    "Grand_Total": {
+                        "Certificates_Below_Bachelor's": "0",
+                        "Certificates_Above_Bachelor's": "1,589",
+                        "Associate's": "2",
+                        "Bachelor's": "1,802",
+                        "Master's": "4,949",
+                        "Doctor's_research/_scholarship": "681",
+                        "Doctor's_professional_practice": "783",
+                        "Doctor's_other": "0"
+                    },
+                    "American_Indian_Or_Alaska_Native": {
+                        "Certificates_Below_Bachelor's": "0",
+                        "Certificates_Above_Bachelor's": "2",
+                        "Associate's": "0",
+                        "Bachelor's": "4",
+                        "Master's": "3",
+                        "Doctor's_research/_scholarship": "1",
+                        "Doctor's_professional_practice": "0",
+                        "Doctor's_other": "0"
+                    },
+                    "Asian": {
+                        "Certificates_Below_Bachelor's": "0",
+                        "Certificates_Above_Bachelor's": "314",
+                        "Associate's": "0",
+                        "Bachelor's": "382",
+                        "Master's": "655",
+                        "Doctor's_research/_scholarship": "65",
+                        "Doctor's_professional_practice": "128",
+                        "Doctor's_other": "0"
+                    },
+                    "Black_Or_African_American": {
+                        "Certificates_Below_Bachelor's": "0",
+                        "Certificates_Above_Bachelor's": "78",
+                        "Associate's": "0",
+                        "Bachelor's": "128",
+                        "Master's": "239",
+                        "Doctor's_research/_scholarship": "22",
+                        "Doctor's_professional_practice": "53",
+                        "Doctor's_other": "0"
+                    },
+                    "Hispanic_Or_Latino": {
+                        "Certificates_Below_Bachelor's": "0",
+                        "Certificates_Above_Bachelor's": "171",
+                        "Associate's": "0",
+                        "Bachelor's": "199",
+                        "Master's": "368",
+                        "Doctor's_research/_scholarship": "43",
+                        "Doctor's_professional_practice": "75",
+                        "Doctor's_other": "0"
+                    },
+                    "Native_Hawaiian_Or_Other_Pacific_Islander": {
+                        "Certificates_Below_Bachelor's": "0",
+                        "Certificates_Above_Bachelor's": "0",
+                        "Associate's": "0",
+                        "Bachelor's": "0",
+                        "Master's": "4",
+                        "Doctor's_research/_scholarship": "0",
+                        "Doctor's_professional_practice": "2",
+                        "Doctor's_other": "0"
+                    },
+                    "White": {
+                        "Certificates_Below_Bachelor's": "0",
+                        "Certificates_Above_Bachelor's": "831",
+                        "Associate's": "2",
+                        "Bachelor's": "739",
+                        "Master's": "1,903",
+                        "Doctor's_research/_scholarship": "283",
+                        "Doctor's_professional_practice": "378",
+                        "Doctor's_other": "0"
+                    },
+                    "Two_Or_More_Races": {
+                        "Certificates_Below_Bachelor's": "0",
+                        "Certificates_Above_Bachelor's": "45",
+                        "Associate's": "0",
+                        "Bachelor's": "135",
+                        "Master's": "130",
+                        "Doctor's_research/_scholarship": "24",
+                        "Doctor's_professional_practice": "27",
+                        "Doctor's_other": "0"
+                    },
+                    "Race/ethnicity_Unknown": {
+                        "Certificates_Below_Bachelor's": "0",
+                        "Certificates_Above_Bachelor's": "79",
+                        "Associate's": "0",
+                        "Bachelor's": "31",
+                        "Master's": "97",
+                        "Doctor's_research/_scholarship": "15",
+                        "Doctor's_professional_practice": "29",
+                        "Doctor's_other": "0"
+                    },
+                    "Nonresident_Alien": {
+                        "Certificates_Below_Bachelor's": "0",
+                        "Certificates_Above_Bachelor's": "69",
+                        "Associate's": "0",
+                        "Bachelor's": "184",
+                        "Master's": "1,550",
+                        "Doctor's_research/_scholarship": "228",
+                        "Doctor's_professional_practice": "91",
+                        "Doctor's_other": "0"
+                    }
+                },
+                "Men": {
+                    "Grand_Total": {
+                        "Certificates_Below_Bachelor's": "0",
+                        "Certificates_Above_Bachelor's": "786",
+                        "Associate's": "1",
+                        "Bachelor's": "924",
+                        "Master's": "2,389",
+                        "Doctor's_research/_scholarship": "353",
+                        "Doctor's_professional_practice": "409",
+                        "Doctor's_other": "0"
+                    },
+                    "American_Indian_Or_Alaska_Native": {
+                        "Certificates_Below_Bachelor's": "0",
+                        "Certificates_Above_Bachelor's": "1",
+                        "Associate's": "0",
+                        "Bachelor's": "2",
+                        "Master's": "2",
+                        "Doctor's_research/_scholarship": "0",
+                        "Doctor's_professional_practice": "0",
+                        "Doctor's_other": "0"
+                    },
+                    "Asian": {
+                        "Certificates_Below_Bachelor's": "0",
+                        "Certificates_Above_Bachelor's": "158",
+                        "Associate's": "0",
+                        "Bachelor's": "169",
+                        "Master's": "314",
+                        "Doctor's_research/_scholarship": "28",
+                        "Doctor's_professional_practice": "61",
+                        "Doctor's_other": "0"
+                    },
+                    "Black_Or_African_American": {
+                        "Certificates_Below_Bachelor's": "0",
+                        "Certificates_Above_Bachelor's": "36",
+                        "Associate's": "0",
+                        "Bachelor's": "52",
+                        "Master's": "103",
+                        "Doctor's_research/_scholarship": "10",
+                        "Doctor's_professional_practice": "20",
+                        "Doctor's_other": "0"
+                    },
+                    "Hispanic_Or_Latino": {
+                        "Certificates_Below_Bachelor's": "0",
+                        "Certificates_Above_Bachelor's": "87",
+                        "Associate's": "0",
+                        "Bachelor's": "102",
+                        "Master's": "184",
+                        "Doctor's_research/_scholarship": "20",
+                        "Doctor's_professional_practice": "46",
+                        "Doctor's_other": "0"
+                    },
+                    "Native_Hawaiian_Or_Other_Pacific_Islander": {
+                        "Certificates_Below_Bachelor's": "0",
+                        "Certificates_Above_Bachelor's": "0",
+                        "Associate's": "0",
+                        "Bachelor's": "0",
+                        "Master's": "1",
+                        "Doctor's_research/_scholarship": "0",
+                        "Doctor's_professional_practice": "1",
+                        "Doctor's_other": "0"
+                    },
+                    "White": {
+                        "Certificates_Below_Bachelor's": "0",
+                        "Certificates_Above_Bachelor's": "415",
+                        "Associate's": "1",
+                        "Bachelor's": "417",
+                        "Master's": "919",
+                        "Doctor's_research/_scholarship": "153",
+                        "Doctor's_professional_practice": "206",
+                        "Doctor's_other": "0"
+                    },
+                    "Two_Or_More_Races": {
+                        "Certificates_Below_Bachelor's": "0",
+                        "Certificates_Above_Bachelor's": "25",
+                        "Associate's": "0",
+                        "Bachelor's": "65",
+                        "Master's": "55",
+                        "Doctor's_research/_scholarship": "13",
+                        "Doctor's_professional_practice": "11",
+                        "Doctor's_other": "0"
+                    },
+                    "Race/ethnicity_Unknown": {
+                        "Certificates_Below_Bachelor's": "0",
+                        "Certificates_Above_Bachelor's": "35",
+                        "Associate's": "0",
+                        "Bachelor's": "14",
+                        "Master's": "43",
+                        "Doctor's_research/_scholarship": "11",
+                        "Doctor's_professional_practice": "17",
+                        "Doctor's_other": "0"
+                    },
+                    "Nonresident_Alien": {
+                        "Certificates_Below_Bachelor's": "0",
+                        "Certificates_Above_Bachelor's": "29",
+                        "Associate's": "0",
+                        "Bachelor's": "103",
+                        "Master's": "768",
+                        "Doctor's_research/_scholarship": "118",
+                        "Doctor's_professional_practice": "47",
+                        "Doctor's_other": "0"
+                    }
+                },
+                "Women": {
+                    "Grand_Total": {
+                        "Certificates_Below_Bachelor's": "0",
+                        "Certificates_Above_Bachelor's": "803",
+                        "Associate's": "1",
+                        "Bachelor's": "878",
+                        "Master's": "2,560",
+                        "Doctor's_research/_scholarship": "328",
+                        "Doctor's_professional_practice": "374",
+                        "Doctor's_other": "0"
+                    },
+                    "American_Indian_Or_Alaska_Native": {
+                        "Certificates_Below_Bachelor's": "0",
+                        "Certificates_Above_Bachelor's": "1",
+                        "Associate's": "0",
+                        "Bachelor's": "2",
+                        "Master's": "1",
+                        "Doctor's_research/_scholarship": "1",
+                        "Doctor's_professional_practice": "0",
+                        "Doctor's_other": "0"
+                    },
+                    "Asian": {
+                        "Certificates_Below_Bachelor's": "0",
+                        "Certificates_Above_Bachelor's": "156",
+                        "Associate's": "0",
+                        "Bachelor's": "213",
+                        "Master's": "341",
+                        "Doctor's_research/_scholarship": "37",
+                        "Doctor's_professional_practice": "67",
+                        "Doctor's_other": "0"
+                    },
+                    "Black_Or_African_American": {
+                        "Certificates_Below_Bachelor's": "0",
+                        "Certificates_Above_Bachelor's": "42",
+                        "Associate's": "0",
+                        "Bachelor's": "76",
+                        "Master's": "136",
+                        "Doctor's_research/_scholarship": "12",
+                        "Doctor's_professional_practice": "33",
+                        "Doctor's_other": "0"
+                    },
+                    "Hispanic_Or_Latino": {
+                        "Certificates_Below_Bachelor's": "0",
+                        "Certificates_Above_Bachelor's": "84",
+                        "Associate's": "0",
+                        "Bachelor's": "97",
+                        "Master's": "184",
+                        "Doctor's_research/_scholarship": "23",
+                        "Doctor's_professional_practice": "29",
+                        "Doctor's_other": "0"
+                    },
+                    "Native_Hawaiian_Or_Other_Pacific_Islander": {
+                        "Certificates_Below_Bachelor's": "0",
+                        "Certificates_Above_Bachelor's": "0",
+                        "Associate's": "0",
+                        "Bachelor's": "0",
+                        "Master's": "3",
+                        "Doctor's_research/_scholarship": "0",
+                        "Doctor's_professional_practice": "1",
+                        "Doctor's_other": "0"
+                    },
+                    "White": {
+                        "Certificates_Below_Bachelor's": "0",
+                        "Certificates_Above_Bachelor's": "416",
+                        "Associate's": "1",
+                        "Bachelor's": "322",
+                        "Master's": "984",
+                        "Doctor's_research/_scholarship": "130",
+                        "Doctor's_professional_practice": "172",
+                        "Doctor's_other": "0"
+                    },
+                    "Two_Or_More_Races": {
+                        "Certificates_Below_Bachelor's": "0",
+                        "Certificates_Above_Bachelor's": "20",
+                        "Associate's": "0",
+                        "Bachelor's": "70",
+                        "Master's": "75",
+                        "Doctor's_research/_scholarship": "11",
+                        "Doctor's_professional_practice": "16",
+                        "Doctor's_other": "0"
+                    },
+                    "Race/ethnicity_Unknown": {
+                        "Certificates_Below_Bachelor's": "0",
+                        "Certificates_Above_Bachelor's": "44",
+                        "Associate's": "0",
+                        "Bachelor's": "17",
+                        "Master's": "54",
+                        "Doctor's_research/_scholarship": "4",
+                        "Doctor's_professional_practice": "12",
+                        "Doctor's_other": "0"
+                    },
+                    "Nonresident_Alien": {
+                        "Certificates_Below_Bachelor's": "0",
+                        "Certificates_Above_Bachelor's": "40",
+                        "Associate's": "0",
+                        "Bachelor's": "81",
+                        "Master's": "782",
+                        "Doctor's_research/_scholarship": "110",
+                        "Doctor's_professional_practice": "44",
+                        "Doctor's_other": "0"
+                    }
+                },
+                "Program": {
+                    "Grand_Total": {
+                        "Certificates_Below_Bachelor's": "-",
+                        "Certificates_Above_Bachelor's": "1,589",
+                        "Associate's": "2",
+                        "Bachelor's": "1,802",
+                        "Master's": "4,949",
+                        "Doctor's_research/_scholarship": "681",
+                        "Doctor's_professional_practice": "783",
+                        "Doctor's_other": "-"
+                    },
+                    "Natural_Resources_And_Conservation": {
+                        "Certificates_Below_Bachelor's": "-",
+                        "Certificates_Above_Bachelor's": "71",
+                        "Associate's": "-",
+                        "Bachelor's": "14",
+                        "Master's": "195",
+                        "Doctor's_research/_scholarship": "-",
+                        "Doctor's_professional_practice": "-",
+                        "Doctor's_other": "-"
+                    },
+                    "Architecture_And_Related_Services": {
+                        "Certificates_Below_Bachelor's": "-",
+                        "Certificates_Above_Bachelor's": "28",
+                        "Associate's": "-",
+                        "Bachelor's": "-",
+                        "Master's": "186",
+                        "Doctor's_research/_scholarship": "10",
+                        "Doctor's_professional_practice": "-",
+                        "Doctor's_other": "-"
+                    },
+                    "Area,_Ethnic,_Cultural,_Gender,_And_Group_Studies": {
+                        "Certificates_Below_Bachelor's": "-",
+                        "Certificates_Above_Bachelor's": "-",
+                        "Associate's": "-",
+                        "Bachelor's": "23",
+                        "Master's": "48",
+                        "Doctor's_research/_scholarship": "25",
+                        "Doctor's_professional_practice": "-",
+                        "Doctor's_other": "-"
+                    },
+                    "Communication,_Journalism,_And_Related_Programs": {
+                        "Certificates_Below_Bachelor's": "-",
+                        "Certificates_Above_Bachelor's": "6",
+                        "Associate's": "-",
+                        "Bachelor's": "-",
+                        "Master's": "15",
+                        "Doctor's_research/_scholarship": "-",
+                        "Doctor's_professional_practice": "-",
+                        "Doctor's_other": "-"
+                    },
+                    "Computer_And_Information_Sciences_And_Support_Services": {
+                        "Certificates_Below_Bachelor's": "-",
+                        "Certificates_Above_Bachelor's": "181",
+                        "Associate's": "-",
+                        "Bachelor's": "180",
+                        "Master's": "131",
+                        "Doctor's_research/_scholarship": "11",
+                        "Doctor's_professional_practice": "-",
+                        "Doctor's_other": "-"
+                    },
+                    "Education": {
+                        "Certificates_Below_Bachelor's": "-",
+                        "Certificates_Above_Bachelor's": "47",
+                        "Associate's": "-",
+                        "Bachelor's": "0",
+                        "Master's": "691",
+                        "Doctor's_research/_scholarship": "42",
+                        "Doctor's_professional_practice": "0",
+                        "Doctor's_other": "-"
+                    },
+                    "Engineering": {
+                        "Certificates_Below_Bachelor's": "-",
+                        "Certificates_Above_Bachelor's": "0",
+                        "Associate's": "-",
+                        "Bachelor's": "93",
+                        "Master's": "179",
+                        "Doctor's_research/_scholarship": "37",
+                        "Doctor's_professional_practice": "-",
+                        "Doctor's_other": "-"
+                    },
+                    "Engineering/engineering-related_Technologies/technicians": {
+                        "Certificates_Below_Bachelor's": "-",
+                        "Certificates_Above_Bachelor's": "5",
+                        "Associate's": "-",
+                        "Bachelor's": "-",
+                        "Master's": "17",
+                        "Doctor's_research/_scholarship": "-",
+                        "Doctor's_professional_practice": "-",
+                        "Doctor's_other": "-"
+                    },
+                    "Foreign_Languages,_Literatures,_And_Linguistics": {
+                        "Certificates_Below_Bachelor's": "-",
+                        "Certificates_Above_Bachelor's": "-",
+                        "Associate's": "-",
+                        "Bachelor's": "31",
+                        "Master's": "15",
+                        "Doctor's_research/_scholarship": "23",
+                        "Doctor's_professional_practice": "-",
+                        "Doctor's_other": "-"
+                    },
+                    "Family_And_Consumer_Sciences/human_Sciences": {
+                        "Certificates_Below_Bachelor's": "-",
+                        "Certificates_Above_Bachelor's": "-",
+                        "Associate's": "-",
+                        "Bachelor's": "-",
+                        "Master's": "0",
+                        "Doctor's_research/_scholarship": "3",
+                        "Doctor's_professional_practice": "-",
+                        "Doctor's_other": "-"
+                    },
+                    "Legal_Professions_And_Studies": {
+                        "Certificates_Below_Bachelor's": "-",
+                        "Certificates_Above_Bachelor's": "6",
+                        "Associate's": "-",
+                        "Bachelor's": "-",
+                        "Master's": "183",
+                        "Doctor's_research/_scholarship": "10",
+                        "Doctor's_professional_practice": "570",
+                        "Doctor's_other": "-"
+                    },
+                    "English_Language_And_Literature/letters": {
+                        "Certificates_Below_Bachelor's": "-",
+                        "Certificates_Above_Bachelor's": "5",
+                        "Associate's": "-",
+                        "Bachelor's": "54",
+                        "Master's": "27",
+                        "Doctor's_research/_scholarship": "8",
+                        "Doctor's_professional_practice": "-",
+                        "Doctor's_other": "-"
+                    },
+                    "Liberal_Arts_And_Sciences,_General_Studies_And_Humanities": {
+                        "Certificates_Below_Bachelor's": "-",
+                        "Certificates_Above_Bachelor's": "0",
+                        "Associate's": "2",
+                        "Bachelor's": "34",
+                        "Master's": "0",
+                        "Doctor's_research/_scholarship": "-",
+                        "Doctor's_professional_practice": "-",
+                        "Doctor's_other": "-"
+                    },
+                    "Biological_And_Biomedical_Sciences": {
+                        "Certificates_Below_Bachelor's": "-",
+                        "Certificates_Above_Bachelor's": "33",
+                        "Associate's": "-",
+                        "Bachelor's": "210",
+                        "Master's": "199",
+                        "Doctor's_research/_scholarship": "204",
+                        "Doctor's_professional_practice": "-",
+                        "Doctor's_other": "-"
+                    },
+                    "Mathematics_And_Statistics": {
+                        "Certificates_Below_Bachelor's": "-",
+                        "Certificates_Above_Bachelor's": "-",
+                        "Associate's": "-",
+                        "Bachelor's": "197",
+                        "Master's": "42",
+                        "Doctor's_research/_scholarship": "20",
+                        "Doctor's_professional_practice": "-",
+                        "Doctor's_other": "-"
+                    },
+                    "Military_Technologies_And_Applied_Sciences": {
+                        "Certificates_Below_Bachelor's": "-",
+                        "Certificates_Above_Bachelor's": "233",
+                        "Associate's": "-",
+                        "Bachelor's": "-",
+                        "Master's": "-",
+                        "Doctor's_research/_scholarship": "-",
+                        "Doctor's_professional_practice": "-",
+                        "Doctor's_other": "-"
+                    },
+                    "Multi/interdisciplinary_Studies": {
+                        "Certificates_Below_Bachelor's": "-",
+                        "Certificates_Above_Bachelor's": "137",
+                        "Associate's": "-",
+                        "Bachelor's": "29",
+                        "Master's": "66",
+                        "Doctor's_research/_scholarship": "3",
+                        "Doctor's_professional_practice": "-",
+                        "Doctor's_other": "-"
+                    },
+                    "Philosophy_And_Religious_Studies": {
+                        "Certificates_Below_Bachelor's": "-",
+                        "Certificates_Above_Bachelor's": "14",
+                        "Associate's": "-",
+                        "Bachelor's": "30",
+                        "Master's": "22",
+                        "Doctor's_research/_scholarship": "14",
+                        "Doctor's_professional_practice": "-",
+                        "Doctor's_other": "-"
+                    },
+                    "Theology_And_Religious_Vocations": {
+                        "Certificates_Below_Bachelor's": "-",
+                        "Certificates_Above_Bachelor's": "-",
+                        "Associate's": "-",
+                        "Bachelor's": "0",
+                        "Master's": "115",
+                        "Doctor's_research/_scholarship": "2",
+                        "Doctor's_professional_practice": "-",
+                        "Doctor's_other": "-"
+                    },
+                    "Physical_Sciences": {
+                        "Certificates_Below_Bachelor's": "-",
+                        "Certificates_Above_Bachelor's": "-",
+                        "Associate's": "-",
+                        "Bachelor's": "101",
+                        "Master's": "43",
+                        "Doctor's_research/_scholarship": "71",
+                        "Doctor's_professional_practice": "-",
+                        "Doctor's_other": "-"
+                    },
+                    "Psychology": {
+                        "Certificates_Below_Bachelor's": "-",
+                        "Certificates_Above_Bachelor's": "-",
+                        "Associate's": "-",
+                        "Bachelor's": "77",
+                        "Master's": "50",
+                        "Doctor's_research/_scholarship": "15",
+                        "Doctor's_professional_practice": "-",
+                        "Doctor's_other": "-"
+                    },
+                    "Public_Administration_And_Social_Service_Professions": {
+                        "Certificates_Below_Bachelor's": "-",
+                        "Certificates_Above_Bachelor's": "-",
+                        "Associate's": "-",
+                        "Bachelor's": "-",
+                        "Master's": "515",
+                        "Doctor's_research/_scholarship": "24",
+                        "Doctor's_professional_practice": "-",
+                        "Doctor's_other": "-"
+                    },
+                    "Social_Sciences": {
+                        "Certificates_Below_Bachelor's": "-",
+                        "Certificates_Above_Bachelor's": "71",
+                        "Associate's": "-",
+                        "Bachelor's": "543",
+                        "Master's": "202",
+                        "Doctor's_research/_scholarship": "70",
+                        "Doctor's_professional_practice": "-",
+                        "Doctor's_other": "-"
+                    },
+                    "Visual_And_Performing_Arts": {
+                        "Certificates_Below_Bachelor's": "-",
+                        "Certificates_Above_Bachelor's": "13",
+                        "Associate's": "-",
+                        "Bachelor's": "44",
+                        "Master's": "77",
+                        "Doctor's_research/_scholarship": "15",
+                        "Doctor's_professional_practice": "-",
+                        "Doctor's_other": "-"
+                    },
+                    "Health_Professions_And_Related_Programs": {
+                        "Certificates_Below_Bachelor's": "-",
+                        "Certificates_Above_Bachelor's": "66",
+                        "Associate's": "-",
+                        "Bachelor's": "0",
+                        "Master's": "467",
+                        "Doctor's_research/_scholarship": "43",
+                        "Doctor's_professional_practice": "213",
+                        "Doctor's_other": "-"
+                    },
+                    "Business,_Management,_Marketing,_And_Related_Support_Services": {
+                        "Certificates_Below_Bachelor's": "-",
+                        "Certificates_Above_Bachelor's": "673",
+                        "Associate's": "-",
+                        "Bachelor's": "-",
+                        "Master's": "1,429",
+                        "Doctor's_research/_scholarship": "17",
+                        "Doctor's_professional_practice": "-",
+                        "Doctor's_other": "-"
+                    },
+                    "History": {
+                        "Certificates_Below_Bachelor's": "-",
+                        "Certificates_Above_Bachelor's": "-",
+                        "Associate's": "-",
+                        "Bachelor's": "142",
+                        "Master's": "35",
+                        "Doctor's_research/_scholarship": "14",
+                        "Doctor's_professional_practice": "-",
+                        "Doctor's_other": "-"
+                    }
+                }
+            },
+            "Retention_And_Graduation": {
+                "Retention_And_Graduation": {
+                    "Overall_Graduation_Rates": {
+                        "Rate": " "
+                    },
+                    "Total": {
+                        "Rate": "98%"
+                    },
+                    "Men": {
+                        "Rate": "97%"
+                    },
+                    "Women": {
+                        "Rate": "98%"
+                    },
+                    "American_Indian_Or_Alaska_Native": {
+                        "Rate": "100%"
+                    },
+                    "Asian": {
+                        "Rate": "99%"
+                    },
+                    "Black_Or_African_American": {
+                        "Rate": "97%"
+                    },
+                    "Hispanic_Or_Latino": {
+                        "Rate": "98%"
+                    },
+                    "Native_Hawaiian_Or_Other_Pacific_Islander": {
+                        "Rate": ""
+                    },
+                    "White": {
+                        "Rate": "98%"
+                    },
+                    "Two_Or_More_Races": {
+                        "Rate": "97%"
+                    },
+                    "Race/ethnicity_Unknown": {
+                        "Rate": "100%"
+                    },
+                    "Nonresident_Alien": {
+                        "Rate": "94%"
+                    },
+                    "Transfer_Out-rate": {
+                        "Rate": "1%"
+                    }
+                }
+            },
+            "Outcome_Measures": {},
+            "Finance": {
+                "Core_Revenues_Per_FTE_Enrollment": {
+                    "Tuition_And_Fees": "$32,505",
+                    "Government_Grants_And_Contracts": "$22,232",
+                    "Private_Gifts,_Grants,_And_Contracts": "$33,818",
+                    "Investment_Return": "$109,813",
+                    "Other_Core_Revenues": "$17,486"
+                },
+                "Core_Expenses_Per_FTE_Enrollment": {
+                    "Instruction": "$45,396",
+                    "Research": "$40,365",
+                    "Public_Service": "$0",
+                    "Academic_Support": "$32,987",
+                    "Student_Services": "$7,100",
+                    "Institutional_Support": "$41,248",
+                    "Other_Core_Expenses": "$5,872"
+                }
+            },
+            "Human_Resources": {
+                "Occupational_category": {
+                    "All_Staff": {
+                        "Total": "19,178",
+                        "Full-time": "16,942",
+                        "Part-time": "2,236"
+                    },
+                    "Instructional_Staff": {
+                        "Total": "2,455",
+                        "Full-time": "2,120",
+                        "Part-time": "335"
+                    },
+                    "Research": {
+                        "Total": "2,348",
+                        "Full-time": "2,198",
+                        "Part-time": "150"
+                    },
+                    "Public_Service": {
+                        "Total": "0",
+                        "Full-time": "0",
+                        "Part-time": "0"
+                    },
+                    "Librarians,_Curators,_And_Archivists": {
+                        "Total": "825",
+                        "Full-time": "735",
+                        "Part-time": "90"
+                    },
+                    "Archivists,_Curators,_And_Museum_Technicians": {
+                        "Total": "216",
+                        "Full-time": "194",
+                        "Part-time": "22"
+                    },
+                    "Librarians": {
+                        "Total": "386",
+                        "Full-time": "359",
+                        "Part-time": "27"
+                    },
+                    "Library_Technicians": {
+                        "Total": "223",
+                        "Full-time": "182",
+                        "Part-time": "41"
+                    },
+                    "Student_And_Academic_Affairs_And_Other_Education_Services": {
+                        "Total": "898",
+                        "Full-time": "547",
+                        "Part-time": "351"
+                    },
+                    "Management": {
+                        "Total": "1,708",
+                        "Full-time": "1,658",
+                        "Part-time": "50"
+                    },
+                    "Business_And_Financial_Operations": {
+                        "Total": "3,118",
+                        "Full-time": "2,919",
+                        "Part-time": "199"
+                    },
+                    "Computer,_Engineering,_And_Science": {
+                        "Total": "2,650",
+                        "Full-time": "2,488",
+                        "Part-time": "162"
+                    },
+                    "Community_Service,_Legal,_Arts,_And_Media": {
+                        "Total": "843",
+                        "Full-time": "735",
+                        "Part-time": "108"
+                    },
+                    "Healthcare_Practitioners_And_Technical": {
+                        "Total": "228",
+                        "Full-time": "119",
+                        "Part-time": "109"
+                    },
+                    "Service_Occupations": {
+                        "Total": "1,531",
+                        "Full-time": "1,143",
+                        "Part-time": "388"
+                    },
+                    "Sales_And_Related_Occupations": {
+                        "Total": "0",
+                        "Full-time": "0",
+                        "Part-time": "0"
+                    },
+                    "Office_And_Administrative_Support": {
+                        "Total": "2,384",
+                        "Full-time": "2,098",
+                        "Part-time": "286"
+                    },
+                    "Natural_Resources,_Construction,_And_Maintenance": {
+                        "Total": "131",
+                        "Full-time": "131",
+                        "Part-time": "0"
+                    },
+                    "Production,_Transportation,_And_Material_Moving": {
+                        "Total": "59",
+                        "Full-time": "51",
+                        "Part-time": "8"
+                    },
+                    "Graduate_Assistants": {
+                        "Total": "-",
+                        "Full-time": "-",
+                        "Part-time": "2,365"
+                    },
+                    "Graduate_Assistants_Teaching": {
+                        "Total": "-",
+                        "Full-time": "-",
+                        "Part-time": "1,388"
+                    },
+                    "Graduate_Assistants_Research": {
+                        "Total": "-",
+                        "Full-time": "-",
+                        "Part-time": "864"
+                    },
+                    "All_Other": {
+                        "Total": "-",
+                        "Full-time": "-",
+                        "Part-time": "113"
+                    }
+                },
+                "Number_Of_Full-Time_Staff": {
+                    "Total": {
+                        "Total": "4,318",
+                        "Instructional_Staff": "2,120",
+                        "Research": "2,198",
+                        "Public_Service": "0"
+                    },
+                    "With_Faculty_Status": {
+                        "Total": "2,120",
+                        "Instructional_Staff": "2,120",
+                        "Research": "0",
+                        "Public_Service": "0"
+                    },
+                    "Tenured": {
+                        "Total": "1,073",
+                        "Instructional_Staff": "1,073",
+                        "Research": "0",
+                        "Public_Service": "0"
+                    },
+                    "On_Tenure_Track": {
+                        "Total": "400",
+                        "Instructional_Staff": "400",
+                        "Research": "0",
+                        "Public_Service": "0"
+                    },
+                    "Not_On_Tenure_Track": {
+                        "Total": "647",
+                        "Instructional_Staff": "647",
+                        "Research": "0",
+                        "Public_Service": "0"
+                    },
+                    "Multi-year_Contract": {
+                        "Total": "304",
+                        "Instructional_Staff": "304",
+                        "Research": "0",
+                        "Public_Service": "0"
+                    },
+                    "Indefinite_Contract": {
+                        "Total": "6",
+                        "Instructional_Staff": "6",
+                        "Research": "0",
+                        "Public_Service": "0"
+                    },
+                    "Annual_Contract": {
+                        "Total": "337",
+                        "Instructional_Staff": "337",
+                        "Research": "0",
+                        "Public_Service": "0"
+                    },
+                    "Less-than_Annual_Contract": {
+                        "Total": "0",
+                        "Instructional_Staff": "0",
+                        "Research": "0",
+                        "Public_Service": "0"
+                    },
+                    "Without_Faculty_Status": {
+                        "Total": "2,198",
+                        "Instructional_Staff": "0",
+                        "Research": "2,198",
+                        "Public_Service": "0"
+                    }
+                }
+            },
+            "Academic_Libraries": {}
+        }
+    }
+]
